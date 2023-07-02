@@ -9,6 +9,20 @@
 
 <p align="left"> <a href="https://twitter.com/saidoshits" target="blank"><img src="https://img.shields.io/twitter/follow/saidoshits?logo=twitter&style=for-the-badge" alt="saidoshits" /></a> </p>
 
+- 🔭 I’m currently working on **React**
+
+- 🌱 I’m currently learning **React**
+
+- 👯 I’m looking to collaborate on **DevOps**
+
+- 🤝 I’m looking for help with **JS**
+
+- 💬 Ask me about **frontend devlopment**
+
+- 📫 How to reach me **saidldik937@gmail.com**
+
+- ⚡ Fun fact **I think i'm funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/saidos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="saidos" height="30" width="40" /></a>
@@ -26,3 +40,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saidoshits&show_icons=true&locale=en" alt="saidoshits" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saidoshits&" alt="saidoshits" /></p>
+
