@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm SaidosHits</h1>
 <h3 align="center">Im frontend devloper from Morocco and i love Js</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saidoshits&label=Profile%20views&color=0e75b6&style=flat" alt="saidoshits" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saidoshits" alt="saidoshits" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saidoshits&label=Profile%20views&color=0e75b6&style=flat" alt="saidoshits" /> </p>
 
 <p align="left"> <a href="https://twitter.com/saidoshits" target="blank"><img src="https://img.shields.io/twitter/follow/saidoshits?logo=twitter&style=for-the-badge" alt="saidoshits" /></a> </p>
 
