@@ -43,7 +43,7 @@
 </a>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://www.codewars.com/users/SaidosHits/badges/small" />
+  <img height=200 align="center" src="https://www.codewars.com/users/SaidosHits/badges/large" />
 </a>
 
 
