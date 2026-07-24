@@ -19,3 +19,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saidoshits&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 # CodeWars Stats:
 ![](https://www.codewars.com/users/SaidosHits/badges/large)
+# Top Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
