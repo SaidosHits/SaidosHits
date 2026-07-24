@@ -20,4 +20,4 @@
 # CodeWars Stats:
 ![](https://www.codewars.com/users/SaidosHits/badges/large)
 # Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaidosHits&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saidoshits&layout=compact)
